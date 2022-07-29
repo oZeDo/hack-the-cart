@@ -1,5 +1,6 @@
 # hack-the-cart
 Pandas + Numpy
+
 Решение кейса с хакатона [Hack the cart]. Решение занимает 6 место (Команда Delta Squad) среди команд финалистов и использует статистический подход.
 
 ![Результат](https://user-images.githubusercontent.com/14166140/181800903-4304757a-a3c7-44e0-9fac-d5ea9a109eab.jpg)
