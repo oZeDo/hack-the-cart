@@ -3,6 +3,12 @@ Pandas + Numpy
 
 Решение кейса с хакатона [Hack the cart]. Решение занимает 6 место (Команда Delta Squad) среди команд финалистов и использует статистический подход.
 
+Personal item connections + MOST_COMMON(3) + Top 20
+
+Public score: 0.3007113356695434
+
+Private score: 0.3015127380522592
+
 ![Результат](https://user-images.githubusercontent.com/14166140/181800903-4304757a-a3c7-44e0-9fac-d5ea9a109eab.jpg)
 
 ## [Задача] кейса
